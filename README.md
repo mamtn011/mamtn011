@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mustakim Al Mobin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Javascript Ninja](https://dev--ephemeral-figolla-0b7604.netlify.app/en)
+- 🔭 I’m currently working on [Javascript Ninja](https://jsninja.live)
 
 - 🌱 I’m currently learning **Next.js**
 
